@@ -4,4 +4,4 @@
 
 layout: home
 ---
-![Lisa Play](img/C:\Users\lmp08c\OneDrive - Florida State University\Picturesheadshot.jpg)
+![Lisa_Play](img/C:\Users\lmp08c\OneDrive - Florida State University\Pictures/headshot.jpg)
