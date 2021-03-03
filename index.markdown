@@ -4,4 +4,4 @@
 
 layout: home
 ---
-![Lisa Play](https://github.com/witchtropics/LPlaySite/blob/gh-pages/headshot.jpg)
+![Lisa Play]![Lisa Play](_site/assets/headshot.jpg)
