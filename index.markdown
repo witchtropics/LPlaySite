@@ -5,4 +5,4 @@
 layout: home
 ---
 
-![Lisa Play](_site/assets/headshot.jpg)
+![Lisa Play](_site/assets/images/headshot_copy.jpg.jpg)
