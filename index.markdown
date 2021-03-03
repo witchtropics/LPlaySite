@@ -4,4 +4,5 @@
 
 layout: home
 ---
-![Lisa Play]![Lisa Play](_site/assets/headshot.jpg)
+
+![Lisa Play](_site/assets/headshot.jpg)
