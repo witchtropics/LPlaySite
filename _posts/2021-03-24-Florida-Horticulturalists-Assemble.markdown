@@ -20,7 +20,7 @@ The final (and continually updated and adjusted) dataset on the membership of th
 
 ## Link
 [FSHS Membership Data (1894-1917)]
-(https://github.com/comp-methods-fsu-2021/Florida-State-Horticultural-Society-Annual-Meeting-Proceedings/blob/main/Metadata/FSHS%20Membership%20Data%20(1894-1917).csv)
+(https://github.com/comp-methods-fsu-2021/Florida-State-Horticultural-Society-Annual-Meeting-Proceedings/blob/beaadf4d2b426bec19ac4baaa60d20cff615ae59/Metadata/FSHS%20Membership%20Data%20(1894-1917).csv)
 
 
 ### Postscript
