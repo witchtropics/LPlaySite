@@ -11,8 +11,6 @@ When I began studying this corpus, I expected to encounter FSHS members from all
 
 This visualization pulls from the FSHS Membership Data (1894-1917) dataset mentioned in prior blog posts. 
 
-![Member-Map-Cities](C:\Users\lmp08c\OneDrive - Florida State University\Documents\HIS6934 Corpus\LPlay_Florida-State-Horticultural-Society-Annual-Meeting-Proceedings\Member_Map_Cities_1894_1917.png){:class="img-responsive"}
-
 
 ## Link
 [Member Map (Cities) (1894-1917)](https://public.tableau.com/views/MemberMapCities1894-1917/Sheet1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
