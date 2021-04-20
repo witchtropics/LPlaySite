@@ -34,7 +34,7 @@ I  plan to follow a process similar to this in the future. While hand cleaning d
 ## Link
 [FSHS Membership Data (1894-1917)](https://github.com/comp-methods-fsu-2021/Florida-State-Horticultural-Society-Annual-Meeting-Proceedings/blob/0aa22fe7ea441615b9a9db20d393b2c61899daaa/Metadata/FSHS%20Membership%20Data%20(1894-1917))
 
-04/19/2021 Update (...and Clean Again)
+# 04/19/2021 Update (...and Clean Again)
 
 ## Repository Tidying
 
