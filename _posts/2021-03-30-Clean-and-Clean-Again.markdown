@@ -5,7 +5,7 @@ date:   2021-03-30 12:30
 categories: enriched data, cleaned data
 ---
 
-##  OCR Can Only Get You So Far 
+#  OCR Can Only Get You So Far 
 
 Very nearly all the way there, in fact. 
 
@@ -19,7 +19,7 @@ For example:
 
 Another step of the cleaning process that I did not anticipate was the need to create a "Country" column. It was exciting to learn that the Florida State Horticultural Society had members as distant as Northern Ireland, Denmark, Burma, and the Phillipines. However, deciding how to refer to some places was tricky. Would I use modern nation designations for foreign countries or territories, or would I use the period reference? I ultimately chose to use present-day designations since I was pressed for time, but this choice was an unpleasant one to make and I would go back to edit these places into more precise period designations if I were engaged in this project in a long term capacity.
 
-## Missing a Step, Falling Up
+# Missing a Step, Falling Up
 
 Experimentation is fraught with ineffiencies. In the process of transferring copy-pasting member lists directly into the Google Sheet and editing the lines directly in there, I missed an opportunity for pre-cleaning the data. What I realized I should have done (way too late in the process to step back and do it this way) was to:
 
@@ -31,12 +31,12 @@ Experimentation is fraught with ineffiencies. In the process of transferring cop
 
 I  plan to follow a process similar to this in the future. While hand cleaning did offer me the opportunity to get very, very familiar with my data, I feel that this process could have been made briefer through more appropriate application of computational methods and tools. 
 
-## Link
+# Link
 [FSHS Membership Data (1894-1917)](https://github.com/comp-methods-fsu-2021/Florida-State-Horticultural-Society-Annual-Meeting-Proceedings/blob/0aa22fe7ea441615b9a9db20d393b2c61899daaa/Metadata/FSHS%20Membership%20Data%20(1894-1917))
 
-### 04/19/2021 Update (...and Clean Again)
+## 04/19/2021 Update (...and Clean Again)
 
-## Repository Tidying
+# Repository Tidying
 
 Alongside cleaning data, I also reorganized my [repository](https://github.com/comp-methods-fsu-2021/Florida-State-Horticultural-Society-Annual-Meeting-Proceedings) to reflect the types of documents I created. I sought to title the repository's folders clearly to indicate their contents, as well as including brief README files in most of them to explain their contents. While the repository's main README file does not contain a full list of all changes, I hope to continue updating it with links to my other blog posts for more robust details on my progress. 
 
