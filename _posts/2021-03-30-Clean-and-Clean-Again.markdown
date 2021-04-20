@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Clean and Clean Again"
+title:  "Clean and Clean Again (Data + Repository)"
 date:   2021-03-30 12:30
 categories: enriched data, cleaned data
 ---
@@ -34,5 +34,9 @@ I  plan to follow a process similar to this in the future. While hand cleaning d
 ## Link
 [FSHS Membership Data (1894-1917)](https://github.com/comp-methods-fsu-2021/Florida-State-Horticultural-Society-Annual-Meeting-Proceedings/blob/0aa22fe7ea441615b9a9db20d393b2c61899daaa/Metadata/FSHS%20Membership%20Data%20(1894-1917))
 
+04/19/2021 Update (...and Clean Again)
 
+## Repository Tidying
+
+Alongside cleaning data, I also reorganized my [repository](https://github.com/comp-methods-fsu-2021/Florida-State-Horticultural-Society-Annual-Meeting-Proceedings) to reflect the types of documents I created. I sought to title the repository's folders clearly to indicate their contents, as well as including brief README files in most of them to explain their contents. While the repository's main README file does not contain a full list of all changes, I hope to continue updating it with links to my other blog posts for more robust details on my progress. 
 
