@@ -31,9 +31,6 @@ Experimentation is fraught with ineffiencies. In the process of transferring cop
 
 I  plan to follow a process similar to this in the future. While hand cleaning did offer me the opportunity to get very, very familiar with my data, I feel that this process could have been made briefer through more appropriate application of computational methods and tools. 
 
-# Link
-[FSHS Membership Data (1894-1917)](https://github.com/comp-methods-fsu-2021/Florida-State-Horticultural-Society-Annual-Meeting-Proceedings/tree/main/Membership%20Metadata)
-
 ## 04/19/2021 Update (...and Clean Again)
 
 # Repository Tidying
