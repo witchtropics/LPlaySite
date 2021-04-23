@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Roots to Branches: A Librarian's Progress"
+title:  "Roots to Branches: A Look at the Progress and Future of This Project"
 date:   2021-04-23 17:00
 categories: 
 ---
