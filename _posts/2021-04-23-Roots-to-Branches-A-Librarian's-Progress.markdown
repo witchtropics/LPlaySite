@@ -4,7 +4,7 @@ title:  "Roots to Branches: A Librarian's Progress"
 date:   2021-04-23 17:00
 categories: 
 ---
- ![orange](https://github.com/witchtropics/LPlaySite/blob/3567b6bc1267a91948c70032f3f344e8a597b90d/victoria-bilsborough-hEicHG6GqXQ-unsplash_orange.jpg){:height="500px" width="300px"}
+ ![orange](https://raw.githubusercontent.com/witchtropics/LPlaySite/blob/3567b6bc1267a91948c70032f3f344e8a597b90d/victoria-bilsborough-hEicHG6GqXQ-unsplash_orange.jpg){:height="500px" width="300px"}
 
 ## Initial Goals and Stated Expectations
 *What is FSHS? Why did I choose this corpus? What did I hope to learn about the Society?*
