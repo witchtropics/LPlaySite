@@ -33,8 +33,6 @@ The proceedings were also separated into separate sections for easier analysis.
 2. Papers and Presentations (these sections contained presentations and submitted reports by Committees and guest speakers, as well as discussions held by members and guests of the Society).
 3. Back Matter (these sections contained topical indexes and were not isolated from all proceedings in the corpus)
 
-
-
 ## Development and Evolution of Research
 
 *Proceedings topics and presentations (first set of data)*
@@ -80,13 +78,13 @@ Potenial researchers may seek to gain a networked view of the Society through th
 
 ## Links
 
-(Github Repository)[https://github.com/comp-methods-fsu-2021/Florida-State-Horticultural-Society-Annual-Meeting-Proceedings]
+[Github Repository](https://github.com/comp-methods-fsu-2021/Florida-State-Horticultural-Society-Annual-Meeting-Proceedings)
 
-(Florida State Horticultural Society: Wikidata)[https://www.wikidata.org/wiki/Q106520514]
+[Florida State Horticultural Society: Wikidata](https://www.wikidata.org/wiki/Q106520514)
 
 
 # Bibliography
 
-Ahnert, R., Ahnert, S. E., Coleman, C. N., & Weingart, S. B. (2020). The Network Turn: Changing Perspectives in the Humanities. Elements in Publishing and Book Culture. https://doi.org/10.1017/9781108866804
+Ahnert, R., Ahnert, S. E., Coleman, C. N., & Weingart, S. B. (2020). The Network Turn: Changing Perspectives in the Humanities. Elements in Publishing and Book Culture. [https://doi.org/10.1017/9781108866804](https://doi.org/10.1017/9781108866804)
 
-Cresap, I. (Ed.). (1958). Proceedings of the Florida State Horticultural Society, 1888. In Proceedings of the Florida State Horticultural Society (Volumes 1-4, 1888-1891) (Vol. 1). Florida State Horticultural Society. https://journals.flvc.org/fshs/article/view/104306/100229
+Cresap, I. (Ed.). (1958). Proceedings of the Florida State Horticultural Society, 1888. In Proceedings of the Florida State Horticultural Society (Volumes 1-4, 1888-1891) (Vol. 1). Florida State Horticultural Society. [https://journals.flvc.org/fshs/article/view/104306/100229](https://journals.flvc.org/fshs/article/view/104306/100229) 
