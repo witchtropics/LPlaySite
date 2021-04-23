@@ -42,7 +42,7 @@ The cleaned Papers and Presentations (PaPr) segments were used for a variety of 
 Compiling the membership lists into a cohesive membership list was an exhausting task, especially when the member names were fraught with so many spelling/OCR errors. It was a largely promising effort, however, revealing the global reach of and interest in Florida horticulture. I was able to create a visualization in Tableau based on the location data available in the membership lists. 
 
 <iframe src="https://public.tableau.com/views/MemberMapCities1894-1917/Sheet1?:language=en&:display_count=y&:origin=viz_share_link:showVizHome=no&:embed=true"
- width="645" height="955"></iframe>
+ width="750" height="955"></iframe>
 
 
 

@@ -11,6 +11,8 @@ When I began studying this corpus, I expected to encounter FSHS members from all
 
 This visualization pulls from the FSHS Membership Data (1894-1917) dataset mentioned in prior blog posts. 
 
+<iframe src="https://public.tableau.com/views/MemberMapCities1894-1917/Sheet1?:language=en&:display_count=y&:origin=viz_share_link:showVizHome=no&:embed=true"
+ width="750" height="955"></iframe>
 
 # Link
 [Member Map (Cities) (1894-1917)](https://public.tableau.com/views/MemberMapCities1894-1917/Sheet1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
