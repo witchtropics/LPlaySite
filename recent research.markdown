@@ -14,9 +14,3 @@ This research project uses plain text files of Florida State Horticultural Proce
 
 
 
-# Methods
-
-
-# Collection
-
-# Cleaning
