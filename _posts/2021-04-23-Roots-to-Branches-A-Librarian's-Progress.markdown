@@ -35,19 +35,15 @@ The proceedings were also separated into separate sections for easier analysis.
 
 # Development and Evolution of Research
 
-*Proceedings topics and presentations (first set of data)*
-
-*What did I hope to achieve with finding/clarifying this data? Include visualization.*
-
 My initial research question for this corpus was "How do the interests of the Florida State Horticultural Society change over time? Can these changing interests be tracked by distant reading of the papers and presentations presented during the Society's Annual Meetings?" 
 
-The cleaned Papers and Presentations (PaPr) segments were used for a variety of analytic purposes. [Topic modeling](https://witchtropics.github.io/LPlaySite/topic/modeling/2021/03/10/topic-modeling.html) using these sections provided some insight into the most common interests of the Society
+The cleaned Papers and Presentations (PaPr) segments were used for a variety of analytic purposes. [Topic modeling](https://witchtropics.github.io/LPlaySite/topic/modeling/2021/03/10/topic-modeling.html) using these sections provided some insight into the most common interests of the Society. However, using only the presentation topic data to examine the Society's interests felt a bit limited. These presentations and reports were created by committees and not to examine the membership lists seemed short-sighted. 
 
 *Membership metadata (second set of data)*
 
-*Why did I want to gain this additional set of data? What does this add to my research? Include visualization.*
+*Why did I want to gain this additional set of data? What does this add to my research?*
 
-
+Compiling the membership lists into a cohesive membership list was an exhausting task, especially when the member names were fraught with so many spelling/OCR errors. It was a largely promising effort, however, revealing the global reach of and interest in Florida horticulture. What 
 
 *Do the proceedings and membership data intersect in a meaningful way? (Maybe link via Tableau and see what happens?)*
 
