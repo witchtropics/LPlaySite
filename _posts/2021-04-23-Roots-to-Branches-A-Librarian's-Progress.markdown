@@ -29,8 +29,8 @@ Regular expressions were used as the primary mode of cleaning the corpus's plain
 
 The proceedings were also separated into separate sections for easier analysis.
 
-1. Front Matter (these sections contained the Table of Contents, Member Lists, Opening Addresses).
-2. Papers and Presentations (these sections contained presentations and submitted reports by Committees and guest speakers, as well as discussions held by members and guests of the Society).
+1. Front Matter/Prefaces and Addresses (these sections contained the Table of Contents, Member Lists, Opening Addresses). I sourced the member lists for each year from these sections of the annual proceedings.
+2. Papers and Presentations (these sections contained presentations and submitted reports by Committees and guest speakers, as well as discussions held by members and guests of the Society). I sourced thed
 3. Back Matter (these sections contained topical indexes and were not isolated from all proceedings in the corpus)
 
 # Development and Evolution of Research
