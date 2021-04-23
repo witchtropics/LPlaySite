@@ -4,20 +4,17 @@ title:  "Roots to Branches: A Librarian's Progress"
 date:   2021-04-23 17:00
 categories: 
 ---
-
-![flamingo](/Downloads/alex-perez-3MxE6q2r8_g-unsplash_flamingo.jpg)
+ ![orange](https://github.com/witchtropics/LPlaySite/blob/3567b6bc1267a91948c70032f3f344e8a597b90d/victoria-bilsborough-hEicHG6GqXQ-unsplash_orange.jpg){:height="500px" width="300px"}
 
 ## Initial Goals and Stated Expectations
 *What is FSHS? Why did I choose this corpus? What did I hope to learn about the Society?*
 
 The Florida State Horticultural Society (FSHS) is a state-level horticultural society founded in 1888. Its membership includes farmers, scientists, and organizations from around Florida, the United States, and the world. The organization has published the proceedings from its annual meetings since 1888, although from 1888 to 1891 the results were published in the "Florida Farmer and Fruit Grower" (1888) and "The Florida Dispatch Farmer and Fruit Grower" (1889-1891) (Cresap, 1958). 
 
-I chose to pursue studying the FSHS Annual Meeting Proceedings with a few goals in mind:
+I chose to pursue studying the FSHS Annual Meeting Proceedings with two goals in mind:
 
 1. To better understand the history of horticultural interests in the state of Florida at the turn of the twentieth century.
-2. To develop and practice my skills in cleaning and visualizing data through the lens of computational methods. 
-
-*My perspective as a librarian/social sciences major. LeMercier & Zalc Ch.1 "fetishization of numbers", intersection of a quantitiative/qualitative perspective with the*
+2. To develop and practice my skills in cleaning and visualizing data through the lens of computational methods with a topic I was familiar with. 
 
 
 ## Methods of Inquiry and Exploration
