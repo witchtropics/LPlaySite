@@ -39,13 +39,13 @@ My initial research question for this corpus was "How do the interests of the Fl
 
 The cleaned Papers and Presentations (PaPr) segments were used for a variety of analytic purposes. [Topic modeling](https://witchtropics.github.io/LPlaySite/topic/modeling/2021/03/10/topic-modeling.html) using these sections provided some insight into the most common interests of the Society. However, using only the presentation topic data to examine the Society's interests felt a bit limited. These presentations and reports were created by committees and not to examine the membership lists seemed short-sighted. 
 
-*Membership metadata (second set of data)*
+Compiling the membership lists into a cohesive membership list was an exhausting task, especially when the member names were fraught with so many spelling/OCR errors. It was a largely promising effort, however, revealing the global reach of and interest in Florida horticulture. I was able to create a visualization in Tableau based on the location data available in the membership lists. 
 
-*Why did I want to gain this additional set of data? What does this add to my research?*
+<div class='tableauPlaceholder' id='viz1619200748539' style='position: relative'><noscript><a href='#'><img alt='Sheet 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Me&#47;MemberMapCities1894-1917&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='MemberMapCities1894-1917&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Me&#47;MemberMapCities1894-1917&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1619200748539');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 
-Compiling the membership lists into a cohesive membership list was an exhausting task, especially when the member names were fraught with so many spelling/OCR errors. It was a largely promising effort, however, revealing the global reach of and interest in Florida horticulture. What 
 
-*Do the proceedings and membership data intersect in a meaningful way? (Maybe link via Tableau and see what happens?)*
+
+*Do the proceedings and membership data intersect in a meaningful way?*
 
 *What did I learn in this process? What was "made clear"?*
 
@@ -61,8 +61,6 @@ Compiling the membership lists into a cohesive membership list was an exhausting
 *What is the future for this project?*
 
 # Data Potenial 
-
-*How could this data be expanded and used in the future? Who might want to use it? How might I share this research?*
 
 The presentation topic and membership data collected in the last few months presents an entry point for other scholars and myself to begin exploring the past interests of the Florida State Horticultural Society. These corpi present researchers with an opportunity to explore the concerns of Florida-invested horticulturalists, farmers, and scientists, but also the demographics of the individuals participating in the creation and presentation of proceedings materials. Researchers could also explore the current corpus of 1894-1922 texts to evaluate how Florida's horticultural development was affected by World War I.
 
