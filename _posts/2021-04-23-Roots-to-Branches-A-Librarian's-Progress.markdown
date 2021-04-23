@@ -7,7 +7,6 @@ categories:
 
 # Initial Goals and Stated Expectations
 
-
 The Florida State Horticultural Society (FSHS) is a state-level horticultural society founded in 1888. Its membership includes farmers, scientists, and organizations from around Florida, the United States, and the world. The organization has published the proceedings from its annual meetings since 1888, although from 1888 to 1891 the results were published in the "Florida Farmer and Fruit Grower" (1888) and "The Florida Dispatch Farmer and Fruit Grower" (1889-1891) (Cresap, 1958). 
 
 I chose to pursue studying the FSHS Annual Meeting Proceedings with two goals in mind:
