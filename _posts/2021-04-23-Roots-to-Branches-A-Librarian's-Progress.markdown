@@ -5,7 +5,7 @@ date:   2021-04-23 17:00
 categories: 
 ---
 
-[orange](victoria-bilsborough-hEicHG6GqXQ-unsplash_orange.jpg)
+![orange]("C:\Users\lmp08c\OneDrive - Florida State University\Pictures\victoria-bilsborough-hEicHG6GqXQ-unsplash_orange.jpg")
 
 ## Initial Goals and Stated Expectations
 *What is FSHS? Why did I choose this corpus? What did I hope to learn about the Society?*
