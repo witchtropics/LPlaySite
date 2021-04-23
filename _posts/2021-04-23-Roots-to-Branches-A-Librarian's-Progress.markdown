@@ -41,7 +41,7 @@ The proceedings were also separated into separate sections for easier analysis.
 
 My initial research question for this corpus was "How do the interests of the Florida State Horticultural Society change over time? Can these changing interests be tracked by distant reading of the papers and presentations presented during the Society's Annual Meetings?" 
 
-The cleaned Papers and Presentations (PaPr) segments were used for a variety of analytic purposes. [Topic modeling]() using these sections provided some insight into the most common interests of the Society
+The cleaned Papers and Presentations (PaPr) segments were used for a variety of analytic purposes. [Topic modeling](https://witchtropics.github.io/LPlaySite/topic/modeling/2021/03/10/topic-modeling.html) using these sections provided some insight into the most common interests of the Society
 
 *Membership metadata (second set of data)*
 
