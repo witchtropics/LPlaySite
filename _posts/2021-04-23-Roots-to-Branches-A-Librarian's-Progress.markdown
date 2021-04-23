@@ -19,7 +19,7 @@ I chose to pursue studying the FSHS Annual Meeting Proceedings with two goals in
 
 The decision to work with the FSHS Annual Meeting Proceedings arose out of my desire to work with texts that were consistently organized, linked together topically, and (for ease of cleaning) in twentieth century English. My own background as a native Floridian and plant lover directed my interest towards this group, as well as the bounty of records available online. 
 
-Fascimiles (in the form of PDF scans) and OCR plain text files were sourced from HathiTrust and Archive.org. The quality of the OCR plain text files was generally quite high but tables and graphs suffered terribly in the process and were not usable. 
+I sourced fascimiles (in the form of PDF scans) and OCR plain text files from HathiTrust and Archive.org. The quality of the OCR plain text files was generally quite high but tables and graphs suffered terribly in the process and were not usable. 
 
 # Cleaning 
 
