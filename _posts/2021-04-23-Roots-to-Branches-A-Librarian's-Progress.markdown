@@ -22,9 +22,9 @@ I sourced fascimiles (in the form of PDF scans) and OCR plain text files from Ha
 
 # Cleaning 
 
-Regular expressions were used as the primary mode of cleaning the corpus's plain text files. Cleaning focused generally upon removing page headers and page numbers and collapsing extra spaces in the next. The OCR plain text files contained two kinds of errors and/or inconsistencies that made cleaning difficult:
+Regular expressions were used as the primary mode of cleaning the corpus's plain text files. Cleaning focused generally upon removing page headers and page numbers and collapsing extra lines and spaces. The OCR plain text files contained two kinds of errors and/or inconsistencies that made cleaning difficult:
 
-1. Inconsistent formatting and spelling in the original published iteration of the proceedings. While the overall structure and order of the proceedings remained very similar from year to year, there were noticeable inconsistencies and errors in both how names were spelled in the original text, as well as how title and address information was ordered for each member. 
+1. Inconsistent formatting and spelling in the original published iteration of the proceedings. While the overall structure and order of the proceedings remained very similar from year to year, there were noticeable inconsistencies and errors in both how member names and cities were spelled in the original text, as well as how title and address information was ordered for each member. 
 2. OCR scanning errors. Mangled tables and misspelled words were the main results of OCR scanning errors. These errors made searching for and locating segments of text (say, "FLORIDA STATE HORTICVLTVAL SOCIETY ") difficult to completely remove. Similarly, misscanned member and city names were not usually visible until the membership data had been compiled into tabular form, creating the need for a second level of cleaning on a more hands-on level, since many errors were unique in their configuration. 
 
 The proceedings were also separated into separate sections for easier analysis.
@@ -41,7 +41,7 @@ The proceedings were also separated into separate sections for easier analysis.
 
 My initial research question for this corpus was "How do the interests of the Florida State Horticultural Society change over time? Can these changing interests be tracked by distant reading of the papers and presentations presented during the Society's Annual Meetings?" 
 
-The cleaned Papers and Presentations (PaPr) segments were used for a variety of analytic purposes. Topic modeling using these sections provided some insight into the most common interests of the Society
+The cleaned Papers and Presentations (PaPr) segments were used for a variety of analytic purposes. [Topic modeling]() using these sections provided some insight into the most common interests of the Society
 
 *Membership metadata (second set of data)*
 
