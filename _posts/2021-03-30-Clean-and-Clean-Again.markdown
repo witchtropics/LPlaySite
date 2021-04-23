@@ -9,7 +9,7 @@ categories: enriched data, cleaned data
 
 Very nearly all the way there, in fact. 
 
-In the course of creating the [FSHS Membership Data (1894-1917)](https://github.com/comp-methods-fsu-2021/Florida-State-Horticultural-Society-Annual-Meeting-Proceedings/tree/main/Membership%20Metadata)) dataset, I was fortunate to deal with, very generally, plain text that was generally quite clean to begin with. However, there were a number of typographical and organizational inconsistencies that required cleaning so the data could be meaningfully analyzed and visualized. 
+In the course of creating the [FSHS Membership Data (1894-1917)](https://github.com/comp-methods-fsu-2021/Florida-State-Horticultural-Society-Annual-Meeting-Proceedings/tree/main/Membership%20Metadata) dataset, I was fortunate to deal with, very generally, plain text that was generally quite clean to begin with. However, there were a number of typographical and organizational inconsistencies that required cleaning so the data could be meaningfully analyzed and visualized. 
 
 For example:
 * Street addresses and postal details (PO boxes, "care of" statements) were not consistently placed after a member's name, so the simple copy-pasting of details into a spreadsheet required rearrangement. 
