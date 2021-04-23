@@ -4,10 +4,9 @@ title:  "Roots to Branches: A Librarian's Progress"
 date:   2021-04-23 17:00
 categories: 
 ---
- ![orange](victoria-bilsborough-hEicHG6GqXQ-unsplash_orange.jpg){:height="500px" width="300px"}
 
 ## Initial Goals and Stated Expectations
-*What is FSHS? Why did I choose this corpus? What did I hope to learn about the Society?*
+
 
 The Florida State Horticultural Society (FSHS) is a state-level horticultural society founded in 1888. Its membership includes farmers, scientists, and organizations from around Florida, the United States, and the world. The organization has published the proceedings from its annual meetings since 1888, although from 1888 to 1891 the results were published in the "Florida Farmer and Fruit Grower" (1888) and "The Florida Dispatch Farmer and Fruit Grower" (1889-1891) (Cresap, 1958). 
 
@@ -17,24 +16,24 @@ I chose to pursue studying the FSHS Annual Meeting Proceedings with two goals in
 2. To develop and practice my skills in cleaning and visualizing data through the lens of computational methods with a topic I was familiar with. 
 
 ## Methods of Inquiry and Exploration
-*How did I develop a corpus and mine it for data? What data did I find?*
 
 The decision to work with the FSHS Annual Meeting Proceedings arose out of my desire to work with texts that were consistently organized, linked together topically, and (for ease of cleaning) in twentieth century English. My own background as a native Floridian and plant lover directed my interest towards this group, as well as the bounty of records available online. 
 
 Fascimiles (in the form of PDF scans) and OCR plain text files were sourced from HathiTrust and Archive.org. The quality of the OCR plain text files was generally quite high but tables and graphs suffered terribly in the process and were not usable. 
 
 # Cleaning 
-*Use of RegEx and R to clean coprus and explore/visualize data (talk about Healy here).*
 
-Regular expressions were used as the primary mode of cleaning the corpus's plain text files. Cleaning focused generally upon removing page headers and page numbers and collapsing extra spaces in the next. The proceedings were also separated into separate sections for easier analysis.
+Regular expressions were used as the primary mode of cleaning the corpus's plain text files. Cleaning focused generally upon removing page headers and page numbers and collapsing extra spaces in the next. The OCR plain text files contained two kinds of errors and/or inconsistencies that made cleaning difficult:
+
+1. Inconsistent formatting and spelling in the original published iteration of the proceedings. While the overall structure and order of the proceedings remained very similar from year to year, there were noticeable inconsistencies and errors in both how 
+
+The proceedings were also separated into separate sections for easier analysis.
 
 1. Front Matter (these sections contained the Table of Contents, Member Lists, Opening Addresses).
 2. Papers and Presentations (these sections contained presentations and submitted reports by Committees and guest speakers, as well as discussions held by members and guests of the Society).
 3. Back Matter (these sections contained topical indexes and were not isolated from all proceedings in the corpus)
 
 
-*Note inconsistencies in spelling either due to human error/variability (in regards to the person typing up the records) and OCR scanning issues*
-*Visualization here.*
 
 ## Development and Evolution of Research
 
@@ -81,8 +80,9 @@ Potenial researchers may seek to gain a networked view of the Society through th
 
 ## Links
 
-(Github Repository)[]
-(Florida State Horticultural Society: Wikidata)[]
+(Github Repository)[https://github.com/comp-methods-fsu-2021/Florida-State-Horticultural-Society-Annual-Meeting-Proceedings]
+
+(Florida State Horticultural Society: Wikidata)[https://www.wikidata.org/wiki/Q106520514]
 
 
 # Bibliography
