@@ -19,7 +19,7 @@ Also somehow in the transfer from Google Sheets to my personal computer to Githu
 The final (and continually updated and adjusted) dataset on the membership of the Florida State Horticultural Society offers signficiant insight into the participating members of the organization. The FSHS not only contains a number of recurring Annual members from Florida, but also significant numbers of participants from other states (New York, New Jersey, Georgia, Pennsylvania) and abroad (Cuba, Jamaica, Japan, Norway). A number of businesses are also represented (usually found in the "Last Name" column). Additional columns detailing the member's status as an individual or business could be added in the future, or their county of residence. 
 
 # Link
-[FSHS Membership Data (1894-1917)](https://github.com/comp-methods-fsu-2021/Florida-State-Horticultural-Society-Annual-Meeting-Proceedings/blob/0aa22fe7ea441615b9a9db20d393b2c61899daaa/Metadata/FSHS%20Membership%20Data%20(1894-1917).csv)
+[FSHS Membership Data (1894-1917)](https://github.com/comp-methods-fsu-2021/Florida-State-Horticultural-Society-Annual-Meeting-Proceedings/tree/main/Membership%20Metadata)
 
 
 # Postscript
