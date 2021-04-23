@@ -5,7 +5,7 @@ date:   2021-04-23 17:00
 categories: 
 ---
 
-![flamingo](C:\Downloads\alex-perez-3MxE6q2r8_g-unsplash_flamingo.jpg)
+![flamingo](C:/Downloads/alex-perez-3MxE6q2r8_g-unsplash_flamingo.jpg)
 
 ## Initial Goals and Stated Expectations
 *What is FSHS? Why did I choose this corpus? What did I hope to learn about the Society?*
