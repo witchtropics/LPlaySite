@@ -45,21 +45,17 @@ Compiling the membership lists into a cohesive membership list was an exhausting
  width="750" height="955"></iframe>
 
 
-
-*Do the proceedings and membership data intersect in a meaningful way?*
-
-*What did I learn in this process? What was "made clear"?*
-
 # Sharing and Interacting with the Data
 
-*Development of repository and website, explanation of choices.*
+The data for this project is made available on my GitHub repository (linked below), where it is continuously updated as I clean, edit, and expand it. The two main data types (presentation topic information and membership metadata) are kept in separate folders so they may be explored and downloaded one at a time. Please explore the README files for further information. 
 
+I have also created an extremely basic Wikidata page (linked below) for the Florida State Horticultural Society as a first step towards bringing the organization into a world of linked open data. It lacks many of the data points that can be found on the pages of other horticultural organizations because that information wasn't readily available on the FSHS's website. However, it may be easily obtainable through a simple email to the organization.
 
-*Creation of Wikidata page for FSHS.*
+This website exists as a public-facing opportunity for more of a conversation and reflection of the work being done and doesn't contain quite the technical details of the GitHub logs and READMEs. Unfortunately this also means it's less likely to be updated very often. For more nuts and bolts information, refer to the repository updates. 
 
 # Branching Out
 
-*What is the future for this project?*
+The future for this project is unknown. It began and exists as a means of practicing a number of computational methods for my graduate degree, and its path may very well end there. I do implore interested individuals to use this data if they find it relevant to their efforts, and to let me know about it!
 
 # Data Potenial 
 
@@ -71,7 +67,7 @@ Potenial researchers may seek to gain a networked view of the Society through th
 
 # Links
 
-[Github Repository](https://github.com/comp-methods-fsu-2021/Florida-State-Horticultural-Society-Annual-Meeting-Proceedings)
+[GitHub Repository](https://github.com/comp-methods-fsu-2021/Florida-State-Horticultural-Society-Annual-Meeting-Proceedings)
 
 [Florida State Horticultural Society: Wikidata](https://www.wikidata.org/wiki/Q106520514)
 
