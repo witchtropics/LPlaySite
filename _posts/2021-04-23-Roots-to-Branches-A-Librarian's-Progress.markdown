@@ -5,7 +5,7 @@ date:   2021-04-23 17:00
 categories: 
 ---
 
-## Initial Goals and Stated Expectations
+# Initial Goals and Stated Expectations
 
 
 The Florida State Horticultural Society (FSHS) is a state-level horticultural society founded in 1888. Its membership includes farmers, scientists, and organizations from around Florida, the United States, and the world. The organization has published the proceedings from its annual meetings since 1888, although from 1888 to 1891 the results were published in the "Florida Farmer and Fruit Grower" (1888) and "The Florida Dispatch Farmer and Fruit Grower" (1889-1891) (Cresap, 1958). 
@@ -15,7 +15,7 @@ I chose to pursue studying the FSHS Annual Meeting Proceedings with two goals in
 1. To better understand the history of horticultural interests in the state of Florida at the turn of the twentieth century.
 2. To develop and practice my skills in cleaning and visualizing data through the lens of computational methods with a topic I was familiar with. 
 
-## Methods of Inquiry and Exploration
+# Methods of Inquiry and Exploration
 
 The decision to work with the FSHS Annual Meeting Proceedings arose out of my desire to work with texts that were consistently organized, linked together topically, and (for ease of cleaning) in twentieth century English. My own background as a native Floridian and plant lover directed my interest towards this group, as well as the bounty of records available online. 
 
@@ -33,7 +33,7 @@ The proceedings were also separated into separate sections for easier analysis.
 2. Papers and Presentations (these sections contained presentations and submitted reports by Committees and guest speakers, as well as discussions held by members and guests of the Society).
 3. Back Matter (these sections contained topical indexes and were not isolated from all proceedings in the corpus)
 
-## Development and Evolution of Research
+# Development and Evolution of Research
 
 *Proceedings topics and presentations (first set of data)*
 
@@ -53,14 +53,14 @@ The cleaned Papers and Presentations (PaPr) segments were used for a variety of 
 
 *What did I learn in this process? What was "made clear"?*
 
-## Sharing and Interacting with the Data
+# Sharing and Interacting with the Data
 
 *Development of repository and website, explanation of choices.*
 
 
 *Creation of Wikidata page for FSHS.*
 
-## Branching Out
+# Branching Out
 
 *What is the future for this project?*
 
@@ -74,9 +74,7 @@ However, the corpi are far from complete. The FSHS remains an active organizatio
 
 Potenial researchers may seek to gain a networked view of the Society through the linking of the individuals found on member lists, Society committee membership, and organizations and/or businesses involved in the Society, much in the same way as Ahnert et al. describe Lombardi's ‘BCCI-ICIC & FAB, 1972–91 (4th version)’ in "The Network Turn" (2020). Understanding the way individual, Society, and business interests overlap and influence one another over time seems like an intriguing and ambitious undertaking, but I'm certain the results would be fruitful. 
 
-## Conclusion
-
-## Links
+# Links
 
 [Github Repository](https://github.com/comp-methods-fsu-2021/Florida-State-Horticultural-Society-Annual-Meeting-Proceedings)
 
